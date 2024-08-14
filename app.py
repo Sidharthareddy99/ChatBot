@@ -13,7 +13,7 @@ BOT_AVATAR = "⚡"
 
 
 client = InferenceClient(
-    "mistralai/Mistral-7B-Instruct-v0.3",
+    "HuggingFaceH4/zephyr-7b-beta",
     token=os.getenv("HUGGINGFACE_API_TOKEN")
 )
 
@@ -49,7 +49,7 @@ with st.sidebar:
     This app is an LLM-powered chatbot built🛠️ using:
     - [Streamlit](https://streamlit.io/)
     - [🤗Hugging Face](https://huggingface.co/)
-    - [mistralai/Mistral-7B-Instruct-v0.3](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) LLM model
+    - zephyr-7b-beta LLM model
     
     
     ''')
