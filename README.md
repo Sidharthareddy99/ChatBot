@@ -24,7 +24,7 @@ Welcome to the **HugChat App**, an AI-powered chatbot built using [Streamlit](ht
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/hugchat-app.git
-   cd hugchat-app
+   cd ChatBot
 
 2. **Install the required packages**:
    ```bash
