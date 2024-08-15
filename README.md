@@ -55,7 +55,6 @@ Welcome to the **HugChat App**, an AI-powered chatbot built using [Streamlit](ht
 
 - **app.py**: The main application file.
 - **requirements.txt**: Lists all Python dependencies.
-- **.env**: Contains environment variables like the Hugging Face API token.
 - **chat_history**: Stores chat history using Python's `shelve` module.
 
 ## 🤝 Contributing
