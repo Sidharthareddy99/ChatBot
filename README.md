@@ -2,7 +2,7 @@
 
 Welcome to the **HugChat App**, an AI-powered chatbot built using [Streamlit](https://streamlit.io/) and the [🤗Hugging Face](https://huggingface.co/) API. This app leverages the **zephyr-7b-beta** large language model (LLM) to provide interactive and intelligent conversations.
 
-[Project Link](https://sidharthachatbot.streamlit.app)
+[Project Link](https://sidharthchatbot.streamlit.app/)
 
 ## 🚀 Features
 
